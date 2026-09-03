@@ -40,6 +40,3 @@ Smart-Registration-Form/
 └──images
     └──image
 
-├── index.html
-├── style.css
-└── script.js
