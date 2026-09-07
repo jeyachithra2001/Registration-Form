@@ -69,3 +69,10 @@ textarea{
     color: rgb(2, 86, 2);
     text-align: center;
 }
+
+/* MEDIA QUERY */
+@media screen and (max-width:678px) {
+    .container{
+        width: 70%;
+    }
+}
